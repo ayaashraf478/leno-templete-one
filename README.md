@@ -9,9 +9,9 @@
  ◼️ Web Development
  
 You can explore the portfolio section to see projects, learn more in the about section, and connect via social media in the contact section.
-
 A responsive and user-friendly template built with 𝗰𝗹𝗲𝗮𝗻 𝗖𝗦𝗦 and 𝗳𝗹𝗲𝘅𝗶𝗯𝗹𝗲 𝗴𝗿𝗶𝗱 layouts. Optimized for 𝗮𝗹𝗹 𝘀𝗰𝗿𝗲𝗲𝗻 𝘀𝗶𝘇𝗲𝘀 (𝗺𝗼𝗯𝗶𝗹𝗲, 𝘁𝗮𝗯𝗹𝗲𝘁, 𝗱𝗲𝘀𝗸𝘁𝗼𝗽) with a modern minimal design.
 
 🔍𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗳𝗼𝗿 𝗮𝗴𝗲𝗻𝗰𝗶𝗲𝘀 𝘁𝗼 𝘀𝗵𝗼𝘄𝗰𝗮𝘀𝗲 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗮𝗻𝗱 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼𝘀 𝗶𝗻 𝘀𝘁𝘆𝗹𝗲.
 
+Look at: https://ayaashraf478.github.io/leno-templete-one/
 
